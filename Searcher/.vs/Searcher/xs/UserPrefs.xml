@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{41761AD1-B358-43E1-9E98-F8DC925C27CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Searcher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Searcher.cs">
+    <Files>
+      <File FileName="Searcher.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Searcher" expanded="True">
+            <Node name="Searcher" expanded="True">
+              <Node name="unique_terms.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
