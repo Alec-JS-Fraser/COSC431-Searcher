@@ -13,5 +13,7 @@ To references code the .cs files within each folder contains my working.
 $ cd Searcher/bin/Debug/net7.0
 $ ./Searcher < in.txt > out.txt
 
+searcher needs the index, unique terms and doc IDs from the indexer to operate
+
 to run parser follow step 3 for parser 
 (will need wsj.xml in the parser net7.0 folder to operate)
